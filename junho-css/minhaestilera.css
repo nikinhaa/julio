@@ -1,0 +1,89 @@
+div
+{
+
+ font-family: 'Gill Sans';
+
+}
+
+.titulo
+{
+
+ font-size:42;
+ color: dimgrey;
+ text-align: center;
+
+}
+
+.unico
+{
+ background-color: grey;
+ width: 180px;
+ height: 47px;
+ border: 1px solid;
+ border-radius: 13px;
+ margin-top: 20px;
+ text-align: center;  
+ border-color: white  ;
+ 
+
+}
+
+
+
+.dia
+{
+    width: 180px;
+    height: 74px;
+    border: 1px solid;
+    border-radius: 13px;
+    text-align: center;
+    font-size: 54;
+    border-color: white;
+
+}
+
+.azul
+{
+
+    background-color: #7878db;
+    color: #000099;
+    border: 1px solid;
+    border-color:white;
+
+}
+
+.amarelo
+{
+
+    background-color: #FFFF66;
+    border: 1px solid;
+    color: red;
+    border-color: white;
+
+
+}
+
+.verde
+{
+
+ color: darkolivegreen;
+
+}
+
+.diasf
+{
+    margin-top: 17px;
+    margin-left: 420px;
+    margin-right: 420px;
+
+
+}
+
+.fases 
+{
+
+    margin-top: 17px;
+    margin-left: 500px;
+    margin-right: 450px;
+
+}
